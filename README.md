@@ -11,7 +11,7 @@
 
 <div align=center>
         <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanyamagarwal10&show_icons=true&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanyamagarwal10&show_icons=true&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070%22%20alt=%22Stats" />
 </p>
 
 </div>
