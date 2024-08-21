@@ -1,25 +1,107 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Sanyam Agarwal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<h1 align="center">
+  Hi
+  <img
+    src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
+    width="30px"
+  />, I'm Sanyam Agarwal
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyamagarwal10&label=Profile%20views&color=0e75b6&style=flat" alt="sanyamagarwal10" /> </p>
 
-- 🌱 I’m currently learning **Verilog HDL, RTL Coding, Digital Electronics, DSA**
 
-- 📫 How to reach me **sanyamagarwal10.sa@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sanyamagarwal10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanyamagarwal10" height="30" width="40" /></a>
+<div align=center>
+        <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanyamagarwal10&show_icons=true&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070" alt="Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
+<div align="center">
+<h2 align="center">About Me 🚀</h2>
+<p align="center">
+🔭 I’m currently working on my  <b>Personal growth</b> </br>.
+</p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyamagarwal10&show_icons=true&locale=en&layout=compact" alt="sanyamagarwal10" /></p>
+</br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanyamagarwal10&show_icons=true&locale=en" alt="sanyamagarwal10" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanyamagarwal10&" alt="sanyamagarwal10" /></p>
+<div align="center">
+<div>
+    <a href="https://www.linkedin.com/in/sanyamagarwal10/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" /></a>
+        <a href="mailto:sanyamagarwal10.sa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    </div>
+</div>
+</br>
+<div align="center">
 
+<img align="center" width="700px" alt="GIF" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" />
+</div>
+
+<h1 align="center">
+  <img
+    height="40px"
+    src="https://img.shields.io/badge/-My Tech Stack-faebee?&style=for-the-badge&logoWidth=50"
+  />
+</h1>
+
+<div align="center">
+  <h3 align="center">
+    <img
+      height="25px"
+      src="https://img.shields.io/badge/-Languages-faebee?&style=for-the-badge&logoWidth=50"
+    />
+  </h3>
+
+
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-3670A0?style=for-the-badge&logo=Verilog%20HDL&logoColor=ffdd54)
+  
+  
+</div>
+
+<div align="center">
+  <h3 align="center">
+    <img
+      height="25px"
+      src="https://img.shields.io/badge/-Frameworks and Libraries-faebee?&style=for-the-badge&logoWidth=50"
+    />
+  </h3>
+
+  ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=Tailwind_CSS&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-339933?style=for-the-badge&logo=Bootstrap&logoColor=white)
+
+</div>
+
+<div align="center">
+  <h3 align="center">
+    <img
+      height="25px"
+      src="https://img.shields.io/badge/-Databases-faebee?&style=for-the-badge&logoWidth=50"
+    />
+  </h3>
+
+  ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-%23316192.svg?style=for-the-badge&logo=&logoColor=white)
+</div>
+
+<div align="center">
+  <h3 align="center">
+    <img
+      height="25px"
+      src="https://img.shields.io/badge/-Tools and Services-faebee?&style=for-the-badge&logoWidth=50"
+    />
+  </h3>
+    <img
+    alt="VSCode"
+    src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"
+  />
+  <img
+    alt="GIT"
+    src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"
+  />
