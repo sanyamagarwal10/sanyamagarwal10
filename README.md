@@ -73,7 +73,7 @@
   </h3>
 
   ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=Tailwind_CSS&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+ % ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-339933?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
 </div>
