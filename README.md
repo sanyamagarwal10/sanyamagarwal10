@@ -75,6 +75,7 @@
   ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=Tailwind_CSS&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-339933?style=for-the-badge&logo=Bootstrap&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-orange?style=for-the-badge&logo=Pandas&logoColor=white)
+  ![Numpy](https://img.shields.io/badge/Numpy-purple?style=for-the-badge&logo=Numpy&logoColor=white)
 
 
 </div>
