@@ -113,3 +113,7 @@
 <a href="https://www.arduino.cc/en/software">
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=black" alt="Arduino IDE Badge" />
 </a>
+<a href="https://powerbi.microsoft.com/">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=black" alt="Power BI Badge" />
+</a>
+
