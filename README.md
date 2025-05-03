@@ -107,3 +107,7 @@
     alt="GIT"
     src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"
   />
+   <img
+    alt="PROTEUS DESIDN SUITE"
+    src="https://img.shields.io/badge/Proteus Desidn Suite-F05032.svg?style=for-the-badge&logo=Proteus Design Suite&logoColor=white"
+  />
