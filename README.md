@@ -109,5 +109,5 @@
   />
    <img
     alt="PROTEUS DESIDN SUITE"
-    src="https://img.shields.io/badge/Proteus Design Suite-F05032.svg?style=for-the-badge&logo=Proteus Design Suite&logoColor=white"
+    src="https://img.shields.io/badge/Proteus Design Suite-F05032.svg?style=for-the-badge&logo=ProteusDesignSuite&logoColor=white"
   />
