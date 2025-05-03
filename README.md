@@ -76,6 +76,7 @@
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-339933?style=for-the-badge&logo=Bootstrap&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-orange?style=for-the-badge&logo=Pandas&logoColor=white)
   ![Numpy](https://img.shields.io/badge/Numpy-purple?style=for-the-badge&logo=Numpy&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-yellow?style=for-the-badge&logo=Matplotlib&logoColor=white)
 
 
 </div>
