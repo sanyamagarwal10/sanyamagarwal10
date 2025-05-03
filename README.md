@@ -107,6 +107,7 @@
     alt="GIT"
     src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"
   />
-  <a href="https://www.labcenter.com/">
-  <img src="https://img.shields.io/badge/Proteus_Design_Suite-F05032?style=for-the-badge&logoColor=white&labelColor=blue" alt="Proteus Design Suite Badge" />
+ <a href="https://www.labcenter.com/">
+  <img src="https://img.shields.io/badge/Proteus_Design_Suite-00C853?style=for-the-badge&logoColor=white&labelColor=black" alt="Proteus Design Suite Badge" />
 </a>
+
