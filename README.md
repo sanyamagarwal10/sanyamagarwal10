@@ -110,4 +110,7 @@
  <a href="https://www.labcenter.com/">
   <img src="https://img.shields.io/badge/Proteus_Design_Suite-00C853?style=for-the-badge&logoColor=white&labelColor=black" alt="Proteus Design Suite Badge" />
 </a>
-
+<a href="https://www.labcenter.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/2c/Proteus_Logo.png" alt="Proteus Logo" height="28" />
+  <img src="https://img.shields.io/badge/Proteus_Design_Suite-00C853?style=for-the-badge&logoColor=white&labelColor=black" alt="Proteus Design Suite Badge" />
+</a>
